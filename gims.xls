@@ -1,0 +1,142 @@
+181128_2142	1	globals	Period	NumPeriods	RepeatTreatment	GIMSVersion	GIMSDate	StartTime	Testmode1	CQTestmode	PracticePeriod	NumExperimenterSubjects	Language	TimerInterval	BackupDump	CurrentYear	ExchangeRate	MinPayoffCurrency	MinPayoffECU	Currency	PayoffPrecision	I	ContinuousDoubleAuction	CallAuction	CRTBefore	CRTAfter	FinLit	HLBefore	HLAfter	SettingsStage	ControlQuestions	NumCQ	TimeContinuousDoubleAuction	TimeContinuousDoubleAuctionResults	TimeCallAuction	TimeCallAuctionResults	TimeFinLitResult	TimeHoltLaury	TimeHoltLauryResult	NumMarkets	MultiUnitTrading[1]	PresetDividends	PresetSignals	TickSize	SignalSuperSet	SignalPrecision	CarryOverWealth	PricePrecision	VolumePrecision	CashPrecision	AssetPrecision	ConnectedMarketMechanisms	IndependentPeriods	RandomPeriodPayoff	BBV[1]	AssetName[1]	DividendSet	IndicativePriceInterval	ShowCAPracticeResults	NumTypedOffersCallAuction[1]	MarketOrderPriority[1]	AllowMarketOrders[1]	CallAuctionSignals[1]	OfferImprovementRule[1]	EmptyBookAfterTrade[1]	PartialInvalidation[1]	PriceListDepth[1]	ShowPricelist	ShowChart	SpamControl	PracticeTasks	ContinuousDoubleAuctionSignals	OrderBookDepth[1]	EarlyEndingVote	PriceHighlightScheme	PriceHighlightDuration	CDATimer	PayFinLit	PayoffFinLit	PayFinLitRandom	AskFinLit[1]	AskFinLit[2]	AskFinLit[3]	AskFinLit[4]	AskFinLit[5]	AskFinLit[6]	AskFinLit[7]	AskFinLit[8]	AskFinLit[9]	AskFinLit[10]	AskFinLit[11]	AskFinLit[12]	AskFinLit[13]	AskFinLit[14]	AskFinLit[15]	AskFinLit[16]	PayoffAHigh	PayoffALow	PayoffBHigh	PayoffBLow	Temp[1]	Temp[2]	Temp[3]	Temp[4]	Done	Blink	BlinkOn	NumSubjects	NumFinLit	LastPrice[1]	CallAuctionDone	ResultsDone	CQDone	StartTimeCDA	ForcedExitExperiment	ForcedExitPeriod	AuctionPrice[1]	AuctionVolume[1]	AuctionVolumeTotal[1]	TradeProcessingSide[1]	Dividend[1]	PriceDeterminationRule[1]	TempPrice[1]	BuyMarketVol[1]	SellMarketVol[1]	NumVolumeMaximizingPrices[1]	RandomPayoffPeriod	FontSizeStandard	FontSizeHeading	FontSizeSubHeading	FontSizeCQ	PriceHighlightColor[1]	PriceHighlightTime[1]	MinPrice	MaxPrice	MinVol	MaxVol	BlinkInterval	ChartYMax[1]	ChartYTickDistance[1]	ChartYLabelDistance[1]	ChartXMax[1]	ChartXTickDistance[1]	ChartXLabelDistance[1]	SpaceAboveMaxPrice	SettingsScreen	SettingsEntryShow	SettingsEntryTitle	SettingsEntryValue	SettingsEntryPrecision	SettingsEntryMin	SettingsEntryMax	EndowmentFillerType	EndowmentTypes	EndowmentsPerType	NumDividends[1]	MeanDividend[1]	MaxDividend[1]	MinDividend[1]	EndowmentType	i	j	k	l	done	TimeAuction	TimeProfit	TradeProcessingSide	r	TransactedVol	ForceLeavePeriod	AuctionStop	AuctionNoStop	
+181128_2142	1	globals	1	1	0	"7.7.2"	"27.02.2018"	206315.015	0	1	0	1	1	1	1	2017	1	0	0	1	0.1	-77777	1	0	0	0	0	0	0	1	1	2	180	30	-1	30	1	-1	30	1	1	0	0	0.01	1	0.1	1	0.01	1	0.01	1	0	0	0	0	0	1	-1	1	0	1	1	1	1	0	0	4	1	1	0	1	1	3	0	0	2	-1	0	1	0	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1.6	3.85	0.1	-77777	-77777	-77777	-77777	0	0	-1	2	0	121	0	2	0	206329.828	0	0	-77777	-77777	-77777	0	8	-77777	0	0	0	0	1	18	22	20	18	9	-77777	1	100000	1	100000	1	160	10	20	180	10	30	0.3	1	0	"Current year"	2017	1	2017	2099	2	3	0	4	24	60	0	4	1	0	2	1	1	1	3	1	2	2	1	0	0	
+181128_2142	1	subjects	Period	Subject	Group	Profit	TotalProfit	Participate	CQ[1]	CQ[2]	ShortingCapacityCash	ShortingCapacityAssets[1]	EarlyEndingVote	InitialCash	Cash	AssetValueTemp	InitialAssets[1]	Assets[1]	DisplayMarket[1]	IsExperimenter	DisplayStatus	AnswerFinLit[1]	AnswerFinLit[2]	AnswerFinLit[3]	AnswerFinLit[4]	AnswerFinLit[5]	AnswerFinLit[6]	AnswerFinLit[7]	AnswerFinLit[8]	AnswerFinLit[9]	AnswerFinLit[10]	AnswerFinLit[11]	AnswerFinLit[12]	AnswerFinLit[13]	AnswerFinLit[14]	AnswerFinLit[15]	AnswerFinLit[16]	FinLitID	FinLitScore	FinLitRandomPayQuestion	FinLitRandomPayQuestionID	CRT1	CRT2	CRT3	CRT	HL	HLChoice	HLRandomRow	HLDieRoll	HLPayoff	CQAnswered	r	i	j	SettingsEntryValue	EndowmentAssigned	CurrentYear	ExchangeRate	MinPayoffCurrency	MinPayoffECU	TimeContinuousDoubleAuction	TimeContinuousDoubleAuctionResults	TimeCallAuction	TimeCallAuctionResults	TimeFinLitResult	TimeHoltLaury	TimeHoltLauryResult	LeaveStage	TimeLeaveExperimentSettingsOK	TimeSTARTNOWSettingsOK	TimeLoadFromDiskSettingsOK	TimeResetSettingsOK	TimeStageSettingsSettingsOK	TimeGeneralSettingsSettingsOK	TimePreviousSettingsOK	TimeNextSettingsOK	TimeSwitchSettingsOK	TimeModifySettingsOK	TimeOKSettingsOK	TimeOKControlQuestionsOK	TimeLeaveExperimentControlQuestionsOK	TimeLeavePeriodControlQuestionsOK	TimeLeaveStageControlQuestionsOK	TimeToggleLanguageControlQuestionsOK	TimeConfirmHoltLauryBeforeOK	TimeBestaetigenHoltLauryBeforeOK	TimeChooseOptionBForALLRowsHoltLauryBeforeOK	TimeChooseOptionAForRow1AndOptionBForRows2To10HoltLauryBeforeOK	TimeChooseOptionAForRows1To2AndOptionBForRows3To10HoltLauryBeforeOK	TimeChooseOptionAForRows1To3AndOptionBForRows4To10HoltLauryBeforeOK	TimeChooseOptionAForRows1To4AndOptionBForRows5To10HoltLauryBeforeOK	TimeChooseOptionAForRows1To5AndOptionBForRows6To10HoltLauryBeforeOK	TimeChooseOptionAForRows1To6AndOptionBForRows7To10HoltLauryBeforeOK	TimeChooseOptionAForRows1To7AndOptionBForRows8To10HoltLauryBeforeOK	TimeChooseOptionAForRows1To8AndOptionBForRows9To10HoltLauryBeforeOK	TimeChooseOptionAForRows1To9AndOptionBForRow10HoltLauryBeforeOK	TimeChooseOptionAForALLRowsHoltLauryBeforeOK	TimeWaehleOptionBFuerALLEZeilenHoltLauryBeforeOK	TimeWaehleOptionAFuerZeile1UndOptionBFuerZeilen2Bis10HoltLauryBeforeOK	TimeWaehleOptionAFuerZeilen1Bis2UndOptionBFuerZeilen3Bis10HoltLauryBeforeOK	TimeWaehleOptionAFuerZeilen1Bis3UndOptionBFuerZeilen4Bis10HoltLauryBeforeOK	TimeWaehleOptionAFuerZeilen1Bis4UndOptionBFuerZeilen5Bis10HoltLauryBeforeOK	TimeWaehleOptionAFuerZeilen1Bis5UndOptionBFuerZeilen6Bis10HoltLauryBeforeOK	TimeWaehleOptionAFuerZeilen1Bis6UndOptionBFuerZeilen7Bis10HoltLauryBeforeOK	TimeWaehleOptionAFuerZeilen1Bis7UndOptionBFuerZeilen8Bis10HoltLauryBeforeOK	TimeWaehleOptionAFuerZeilen1Bis8UndOptionBFuerZeilen9Bis10HoltLauryBeforeOK	TimeWaehleOptionAFuerZeilen1Bis9UndOptionBFuerZeile10HoltLauryBeforeOK	TimeWaehleOptionAFuerALLEZeilenHoltLauryBeforeOK	TimeLeaveExperimentHoltLauryBeforeOK	TimeLeavePeriodHoltLauryBeforeOK	TimeLeaveStageHoltLauryBeforeOK	TimeOKHoltLauryResultBeforeOK	TimeLeaveExperimentHoltLauryResultBeforeOK	TimeLeavePeriodHoltLauryResultBeforeOK	TimeLeaveStageHoltLauryResultBeforeOK	TimeOKCRTBeforeOK	TimeLeaveExperimentCRTBeforeOK	TimeLeavePeriodCRTBeforeOK	TimeLeaveStageCRTBeforeOK	TimeGeboteAbschickenCallAuctionOK	TimeSubmitOrdersCallAuctionOK	TimeMarkt1CallAuctionOK	TimeMarkt2CallAuctionOK	TimeMarkt3CallAuctionOK	TimeMarkt4CallAuctionOK	TimeMarkt5CallAuctionOK	TimeMarket1CallAuctionOK	TimeMarket2CallAuctionOK	TimeMarket3CallAuctionOK	TimeMarket4CallAuctionOK	TimeMarket5CallAuctionOK	TimeLeaveExperimentCallAuctionOK	TimeLeavePeriodCallAuctionOK	TimeLeaveStageCallAuctionOK	TimeChangeMarketCallAuctionOK	TimeOKCallAuctionResultsOK	TimeContinueCallAuctionResultsOK	TimeWeiterCallAuctionResultsOK	TimeLeaveExperimentCallAuctionResultsOK	TimeLeavePeriodCallAuctionResultsOK	TimeLeaveStageCallAuctionResultsOK	TimeFuerPeriodenendeStimmenContinuousDoubleAuctionOK	TimeStimmeWiderrufenContinuousDoubleAuctionOK	TimeVoteToEndPeriodContinuousDoubleAuctionOK	TimeRevokeVoteContinuousDoubleAuctionOK	TimeInvalidatedOrdersContinuousDoubleAuctionOK	TimeCancelledOrdersContinuousDoubleAuctionOK	TimeTradedOrdersContinuousDoubleAuctionOK	TimeAllOrdersContinuousDoubleAuctionOK	TimeGeloeschteGeboteContinuousDoubleAuctionOK	TimeStornierteGeboteContinuousDoubleAuctionOK	TimeGehandelteGeboteContinuousDoubleAuctionOK	TimeAlleGeboteContinuousDoubleAuctionOK	TimeMarkt1ContinuousDoubleAuctionOK	TimeMarkt2ContinuousDoubleAuctionOK	TimeMarkt3ContinuousDoubleAuctionOK	TimeMarkt4ContinuousDoubleAuctionOK	TimeMarkt5ContinuousDoubleAuctionOK	TimeMarket1ContinuousDoubleAuctionOK	TimeMarket2ContinuousDoubleAuctionOK	TimeMarket3ContinuousDoubleAuctionOK	TimeMarket4ContinuousDoubleAuctionOK	TimeMarket5ContinuousDoubleAuctionOK	TimeLeaveExperimentContinuousDoubleAuctionOK	TimeLeavePeriodContinuousDoubleAuctionOK	TimeLeaveStageContinuousDoubleAuctionOK	TimeToggleLanguageContinuousDoubleAuctionOK	TimeChangeMarketContinuousDoubleAuctionOK	TimeOKContinuousDoubleAuctionResultsOK	TimeContinueContinuousDoubleAuctionResultsOK	TimeWeiterContinuousDoubleAuctionResultsOK	TimeLeaveExperimentContinuousDoubleAuctionResultsOK	TimeLeavePeriodContinuousDoubleAuctionResultsOK	TimeLeaveStageContinuousDoubleAuctionResultsOK	TimeOKCRTAfterOK	TimeLeaveExperimentCRTAfterOK	TimeLeavePeriodCRTAfterOK	TimeLeaveStageCRTAfterOK	TimeConfirmHoltLauryAfterOK	TimeBestaetigenHoltLauryAfterOK	TimeChooseOptionBForALLRowsHoltLauryAfterOK	TimeChooseOptionAForRow1AndOptionBForRows2To10HoltLauryAfterOK	TimeChooseOptionAForRows1To2AndOptionBForRows3To10HoltLauryAfterOK	TimeChooseOptionAForRows1To3AndOptionBForRows4To10HoltLauryAfterOK	TimeChooseOptionAForRows1To4AndOptionBForRows5To10HoltLauryAfterOK	TimeChooseOptionAForRows1To5AndOptionBForRows6To10HoltLauryAfterOK	TimeChooseOptionAForRows1To6AndOptionBForRows7To10HoltLauryAfterOK	TimeChooseOptionAForRows1To7AndOptionBForRows8To10HoltLauryAfterOK	TimeChooseOptionAForRows1To8AndOptionBForRows9To10HoltLauryAfterOK	TimeChooseOptionAForRows1To9AndOptionBForRow10HoltLauryAfterOK	TimeChooseOptionAForALLRowsHoltLauryAfterOK	TimeWaehleOptionBFuerALLEZeilenHoltLauryAfterOK	TimeWaehleOptionAFuerZeile1UndOptionBFuerZeilen2Bis10HoltLauryAfterOK	TimeWaehleOptionAFuerZeilen1Bis2UndOptionBFuerZeilen3Bis10HoltLauryAfterOK	TimeWaehleOptionAFuerZeilen1Bis3UndOptionBFuerZeilen4Bis10HoltLauryAfterOK	TimeWaehleOptionAFuerZeilen1Bis4UndOptionBFuerZeilen5Bis10HoltLauryAfterOK	TimeWaehleOptionAFuerZeilen1Bis5UndOptionBFuerZeilen6Bis10HoltLauryAfterOK	TimeWaehleOptionAFuerZeilen1Bis6UndOptionBFuerZeilen7Bis10HoltLauryAfterOK	TimeWaehleOptionAFuerZeilen1Bis7UndOptionBFuerZeilen8Bis10HoltLauryAfterOK	TimeWaehleOptionAFuerZeilen1Bis8UndOptionBFuerZeilen9Bis10HoltLauryAfterOK	TimeWaehleOptionAFuerZeilen1Bis9UndOptionBFuerZeile10HoltLauryAfterOK	TimeWaehleOptionAFuerALLEZeilenHoltLauryAfterOK	TimeLeaveExperimentHoltLauryAfterOK	TimeLeavePeriodHoltLauryAfterOK	TimeLeaveStageHoltLauryAfterOK	TimeOKHoltLauryResultAfterOK	TimeLeaveExperimentHoltLauryResultAfterOK	TimeLeavePeriodHoltLauryResultAfterOK	TimeLeaveStageHoltLauryResultAfterOK	TimeOKFinLitIntroOK	TimeLeaveExperimentFinLitIntroOK	TimeLeavePeriodFinLitIntroOK	TimeLeaveStageFinLitIntroOK	TimeOKFinLit01OK	TimeLeaveExperimentFinLit01OK	TimeLeavePeriodFinLit01OK	TimeLeaveStageFinLit01OK	TimeOKFinLit02OK	TimeLeaveExperimentFinLit02OK	TimeLeavePeriodFinLit02OK	TimeLeaveStageFinLit02OK	TimeOKFinLit03OK	TimeLeaveExperimentFinLit03OK	TimeLeavePeriodFinLit03OK	TimeLeaveStageFinLit03OK	TimeOKFinLit04OK	TimeLeaveExperimentFinLit04OK	TimeLeavePeriodFinLit04OK	TimeLeaveStageFinLit04OK	TimeOKFinLit05OK	TimeLeaveExperimentFinLit05OK	TimeLeavePeriodFinLit05OK	TimeLeaveStageFinLit05OK	TimeOKFinLit06OK	TimeLeaveExperimentFinLit06OK	TimeLeavePeriodFinLit06OK	TimeLeaveStageFinLit06OK	TimeOKFinLit07OK	TimeLeaveExperimentFinLit07OK	TimeLeavePeriodFinLit07OK	TimeLeaveStageFinLit07OK	TimeOKFinLit08OK	TimeLeaveExperimentFinLit08OK	TimeLeavePeriodFinLit08OK	TimeLeaveStageFinLit08OK	TimeOKFinLit09OK	TimeLeaveExperimentFinLit09OK	TimeLeavePeriodFinLit09OK	TimeLeaveStageFinLit09OK	TimeOKFinLit10OK	TimeLeaveExperimentFinLit10OK	TimeLeavePeriodFinLit10OK	TimeLeaveStageFinLit10OK	TimeOKFinLit11OK	TimeLeaveExperimentFinLit11OK	TimeLeavePeriodFinLit11OK	TimeLeaveStageFinLit11OK	TimeOKFinLit12OK	TimeLeaveExperimentFinLit12OK	TimeLeavePeriodFinLit12OK	TimeLeaveStageFinLit12OK	TimeOKFinLit13OK	TimeLeaveExperimentFinLit13OK	TimeLeavePeriodFinLit13OK	TimeLeaveStageFinLit13OK	TimeOKFinLit14OK	TimeLeaveExperimentFinLit14OK	TimeLeavePeriodFinLit14OK	TimeLeaveStageFinLit14OK	TimeOKFinLit15OK	TimeLeaveExperimentFinLit15OK	TimeLeavePeriodFinLit15OK	TimeLeaveStageFinLit15OK	TimeOKFinLit16OK	TimeLeaveExperimentFinLit16OK	TimeLeavePeriodFinLit16OK	TimeLeaveStageFinLit16OK	TimeOKFinLitResultOK	TimeLeaveExperimentFinLitResultOK	TimeLeavePeriodFinLitResultOK	TimeLeaveStageFinLitResultOK	
+181128_2142	1	subjects	1	1	1	732	732	1	0	0	0	0	0	585	732	0	2	1	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-77777	-77777	-77777	-77777	-77777	-77777	0	-77777	-77777	-77777	-77777	-77777	-77777	-77777	-77777	-77777	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	89	89	88	86	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	25	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+181128_2142	1	subjects	1	2	1	470	470	1	0	0	0	0	0	585	470	0	2	3	1	0	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-77777	-77777	-77777	-77777	-77777	-77777	0	-77777	-77777	-77777	-77777	-77777	-77777	-77777	-77777	-77777	1	0	0	0	0	0	0	0	0	0	0	0	0	-	0	-	-	-	-	-	-	-	0	0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	0	0	0	0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	22	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+181128_2142	1	subjects	1	3	1	0	0	1	0	0	0	0	0	-77777	-77777	-77777	-77777	-77777	1	1	-1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	-77777	-77777	-77777	-77777	-77777	-77777	-77777	0	-77777	-77777	-77777	-77777	-77777	-77777	-77777	-77777	2018	0	2017	1	0	0	180	30	-1	30	1	-1	30	0	-	99999	-	-	-	-	-	-	-	99999	99999	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	0	0	0	0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+181128_2142	1	summary	Period	Dividend[1]	SSWValue[1]	AvgPriceCA[1]	AvgPriceCDA[1]	AvgVolPriceCDA[1]	MedianPriceCDA[1]	LastPriceCDA[1]	NumTradesCA[1]	NumTradesCDA[1]	VolumeCA[1]	VolumeCDA[1]	
+181128_2142	1	summary	1	8	24	0	112	115	112	121	0	2	0	3	
+181128_2142	1	contracts	Period	Market	ID	WithinSubjectID	Price	Volume	Transacted	VolumeTraded	Status	Type	OfferTime	OfferID	Time	Offerer	Accepter	Phase	PriceListRank	TransactionID	Invalidated	BestBid	BestAsk	
+181128_2142	1	contracts	1	1	1	-	103	1	1	1	1	1	30.59399999998277	-77777	76.26599999997416	1	2	2	3	1	0	103	121	
+181128_2142	1	contracts	1	1	1	-	121	2	0	-77777	3	-1	62.95299999997951	5	76.26599999997416	2	-77777	2	3	-77777	0	0	0	
+181128_2142	1	contracts	1	1	3	-	121	2	2	2	1	1	87.06299999999465	-77777	96.03099999998813	2	1	2	1	2	0	121	-77777	
+181128_2142	1	session	Subject	FinalProfit	ShowUpFee	ShowUpFeeInvested	MoneyAdded	MoneyToPay	MoneyEarned	IsExperimenter	ExchangeRate	
+181128_2142	1	session	1	732	0	0	0	732	732	0	1	
+181128_2142	1	session	2	470	0	0	0	470	470	0	1	
+181128_2142	1	session	3	0	0	0	0	0	0	1	1	
+181128_2142	1	dividends	Period	Type	Dividend	Market	
+181128_2142	1	dividends	1	1	0	1	
+181128_2142	1	dividends	1	2	8	1	
+181128_2142	1	dividends	1	3	28	1	
+181128_2142	1	dividends	1	4	60	1	
+181128_2142	1	endowments	Period	Type	Cash	Assets[1]	
+181128_2142	1	endowments	1	1	225	3	
+181128_2142	1	endowments	1	2	585	2	
+181128_2142	1	endowments	1	3	945	1	
+181128_2142	1	layout	Period	IDNumeric	ID	R	G	B	
+181128_2142	1	layout	1	1	"CA_Signals_BG"	0.88	1	0.8500000000000001	
+181128_2142	1	layout	1	2	"CA_PriceList_BG"	1	0.8300000000000001	0.8300000000000001	
+181128_2142	1	layout	1	3	"CA_BuyOffers_BG"	1	0.9	0.8	
+181128_2142	1	layout	1	4	"CA_SellOffers_BG"	1	0.9	0.8	
+181128_2142	1	layout	1	5	"CA_OrderSubmission_BG"	1	1	0.8	
+181128_2142	1	layout	1	6	"CA_History_BG"	0.8200000000000001	0.8500000000000001	1	
+181128_2142	1	layout	1	7	"CA_BG"	1	1	1	
+181128_2142	1	layout	1	8	"CDA_Signals_BG"	0.96	0.79	0.9500000000000001	
+181128_2142	1	layout	1	9	"CDA_PriceList_BG"	1	0.8300000000000001	0.8300000000000001	
+181128_2142	1	layout	1	10	"CDA_BuyOffers_BG"	1	0.9	0.8	
+181128_2142	1	layout	1	11	"CDA_SellOffers_BG"	1	0.9	0.8	
+181128_2142	1	layout	1	12	"CDA_OrderSubmission_BG"	1	1	0.8	
+181128_2142	1	layout	1	13	"CDA_History_BG"	0.8200000000000001	0.8500000000000001	1	
+181128_2142	1	layout	1	14	"CDA_Chart_Line"	0	0	1	
+181128_2142	1	layout	1	15	"CDA_Chart_BG"	1	1	1	
+181128_2142	1	layout	1	16	"CDA_BG"	1	1	1	
+181128_2142	1	layout	1	17	"Highlighting_Scheme0"	0.9400000000000001	0.9400000000000001	0.9400000000000001	
+181128_2142	1	layout	1	18	"Highlighting_Scheme1_Up"	0	0.79	0	
+181128_2142	1	layout	1	19	"Highlighting_Scheme1_Down"	1	0	0	
+181128_2142	1	layout	1	20	"Highlighting_Scheme2_Up"	1	0.5	0	
+181128_2142	1	layout	1	21	"Highlighting_Scheme2_Down"	0	0	1	
+181128_2142	1	layout	1	22	"CDA_MarketOverview_BG"	0.88	1	0.8500000000000001	
+181128_2142	1	marketsummary	Period	Market	Price	Volume	
+181128_2142	1	marketsummary	1	1	121	3	
+181128_2142	1	offers	Period	Market	ID	Price	Volume	Transacted	Invalidated	Type	Status	Offerer	OfferTime	StatusTime	BuyVol	SellVol	OrderBookRank	Test	TimeSellContinuousDoubleAuctionBuyOffersSingleUnitENSelect	TimeCancelContinuousDoubleAuctionBuyOffersSingleUnitENSelect	TimeVerkaufContinuousDoubleAuctionBuyOffersSingleUnitDESelect	TimeStornierenContinuousDoubleAuctionBuyOffersSingleUnitDESelect	TimeSellContinuousDoubleAuctionBuyOffersMultiUnitENSelect	TimeCancelContinuousDoubleAuctionBuyOffersMultiUnitENSelect	TimeVerkaufContinuousDoubleAuctionBuyOffersMultiUnitDESelect	TimeStornierenContinuousDoubleAuctionBuyOffersMultiUnitDESelect	TimeCancelContinuousDoubleAuctionSellOffersMultiUnitENSelect	TimeBuyContinuousDoubleAuctionSellOffersMultiUnitENSelect	TimeStornierenContinuousDoubleAuctionSellOffersMultiUnitDESelect	TimeKaufContinuousDoubleAuctionSellOffersMultiUnitDESelect	TimeCancelContinuousDoubleAuctionSellOffersSingleUnitENSelect	TimeBuyContinuousDoubleAuctionSellOffersSingleUnitENSelect	TimeStornierenContinuousDoubleAuctionSellOffersSingleUnitDESelect	TimeKaufContinuousDoubleAuctionSellOffersSingleUnitDESelect	TimeSubmitSellOrderContinuousDoubleAuctionSingleUnitENMake	TimeSubmitBuyOrderContinuousDoubleAuctionSingleUnitENMake	TimeVerkaufsgebotContinuousDoubleAuctionSingleUnitDEMake	TimeKaufgebotContinuousDoubleAuctionSingleUnitDEMake	TimeSubmitSellOrderContinuousDoubleAuctionMultipleUnitENMake	TimeSubmitBuyOrderContinuousDoubleAuctionMultipleUnitENMake	TimeVerkaufsgebotContinuousDoubleAuctionMultipleUnitDEMake	TimeKaufgebotContinuousDoubleAuctionMultipleUnitDEMake	
+181128_2142	1	offers	1	1	1	103	1	1	0	1	1	1	30.59399999998277	76.26599999997416	-	1	-77777	0	-	-	-	-	120	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	0	166	-	-	
+181128_2142	1	offers	1	1	2	103	1	0	0	1	0	1	33.57799999997951	-77777	-	0	1	0	-	-	-	-	0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	0	163	-	-	
+181128_2142	1	offers	1	1	3	103	1	0	0	1	0	1	34.90599999998813	-77777	-	0	2	0	-	-	-	-	0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	0	161	-	-	
+181128_2142	1	offers	1	1	4	103	1	0	0	1	0	1	35.84399999998277	-77777	-	0	3	0	-	-	-	-	0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	0	161	-	-	
+181128_2142	1	offers	1	1	5	121	2	0	0	-1	3	2	62.95299999997951	76.26599999997416	-	0	-77777	103	-	-	-	-	0	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	133	0	-	-	
+181128_2142	1	offers	1	1	6	121	2	2	0	1	1	2	87.06299999999465	96.03099999998813	-	2	-77777	0	-	-	-	-	100	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	0	109	-	-	
+181128_2142	1	profit	Assets[1]	Period	Subject	Profit	Cash	
+181128_2142	1	profit	1	1	1	732	732	
+181128_2142	1	profit	3	1	2	470	470	
+181128_2142	1	results	Period	Market	DisplayMarket	Subject	Price	Dividend	Phase	Amount	NumBought	NumSold	
+181128_2142	1	results	1	1	2	1	-77777	-77777	1	2	0	0	
+181128_2142	1	results	1	1	2	2	-77777	-77777	1	2	0	0	
+181128_2142	1	results	1	1	2	3	-77777	-77777	1	-77777	0	0	
+181128_2142	1	results	1	1	2	1	115	8	2	1	1	2	
+181128_2142	1	results	1	1	2	2	115	8	2	3	2	1	
+181128_2142	1	results	1	1	2	3	-1	8	2	-77777	0	0	
+181128_2142	1	settings_globals	Period	GIMSVersion	ExchangeRate	PracticePeriod	Language	CurrentYear	MinPayoffCurrency	MinPayoffECU	Currency	CallAuction	ContinuousDoubleAuction	CRTBefore	CRTAfter	FinLit	HLBefore	HLAfter	ControlQuestions	TimeContinuousDoubleAuction	TimeContinuousDoubleAuctionResults	TimeCallAuction	TimeCallAuctionResults	TimeFinLitResult	TimeHoltLaury	TimeHoltLauryResult	
+181128_2142	1	settings_globals	1	"7.7.2"	1	0	1	2017	0	0	1	0	1	0	0	0	0	0	1	180	30	-1	30	1	-1	30	
+181128_2142	1	signals	Period	Set	Type	Signal	Market	
+181128_2142	1	signals	1	1	1	99.40000000000001	1	
+181128_2142	1	signals	1	1	1	96.40000000000001	1	
+181128_2142	1	signals	1	1	1	103.1	1	
+181128_2142	1	timelog	Period	ID	Time	Subject	Event	Data[1]	Data[2]	Data[3]	Data[4]	
+181128_2142	1	timelog	1	1	0	0	1	0	0	0	0	
+181128_2142	1	timelog	1	2	0.0159999999741558	0	302	0	0	0	0	
+181128_2142	1	timelog	1	3	14.76599999997416	0	301	0	0	0	0	
+181128_2142	1	timelog	1	4	14.79699999999139	0	89	0	0	0	0	
+181128_2142	1	timelog	1	5	14.79699999999139	0	90	0	0	0	0	
+181128_2142	1	timelog	1	6	14.79699999999139	0	48	0	0	0	0	
+181128_2142	1	timelog	1	7	14.81299999999465	0	2	0	0	0	0	
+181128_2142	1	timelog	1	8	30.59399999998277	1	8	1	1	0	0	
+181128_2142	1	timelog	1	9	33.57799999997951	1	8	2	1	0	0	
+181128_2142	1	timelog	1	10	34.90599999998813	1	8	3	1	0	0	
+181128_2142	1	timelog	1	11	35.84399999998277	1	8	4	1	0	0	
+181128_2142	1	timelog	1	12	62.95299999997951	2	7	5	1	0	0	
+181128_2142	1	timelog	1	13	76.26599999997416	2	3	1	1	0	0	
+181128_2142	1	timelog	1	14	87.06299999999465	2	8	6	1	0	0	
+181128_2142	1	timelog	1	15	96.03099999998813	1	3	6	1	0	0	
+181128_2142	1	timelog	1	16	105.7189999999828	1	10	1	0	0	0	
+181128_2142	1	timelog	1	17	106.4219999999914	1	9	1	0	0	0	
+181128_2142	1	timelog	1	18	107.0309999999881	1	9	1	0	0	0	
+181128_2142	1	timelog	1	19	107.3279999999795	1	10	1	0	0	0	
+181128_2142	1	timelog	1	20	107.6409999999742	1	10	1	0	0	0	
+181128_2142	1	timelog	1	21	107.984999999986	1	11	1	0	0	0	
+181128_2142	1	timelog	1	22	108.6409999999742	1	12	1	0	0	0	
+181128_2142	1	timelog	1	23	109.859999999986	1	12	1	0	0	0	
+181128_2142	1	timelog	1	24	196.8439999999828	0	50	0	0	0	0	
+181128_2142	1	timelog	1	25	203.0469999999914	1	70	0	0	0	0	
+181128_2142	1	timelog	1	26	206	2	70	0	0	0	0	
+181128_2142	1	timelog	1	27	206	0	49	0	0	0	0	
+181128_2142	1	timelog	1	28	206	0	91	0	0	0	0	
+181128_2142	1	timelog	1	29	206	0	92	0	0	0	0	
+181128_2142	1	timelog	1	30	206	1	51	0	0	0	0	
+181128_2142	1	timelog	1	31	206.0159999999742	1	52	0	0	0	0	
+181128_2142	1	timelog	1	32	206.0159999999742	1	53	0	0	0	0	
+181128_2142	1	timelog	1	33	206.0159999999742	1	54	0	0	0	0	
+181128_2142	1	timelog	1	34	206.0159999999742	1	55	0	0	0	0	
+181128_2142	1	timelog	1	35	206.0159999999742	1	56	0	0	0	0	
+181128_2142	1	timelog	1	36	206.0159999999742	1	57	0	0	0	0	
+181128_2142	1	timelog	1	37	206.0159999999742	1	58	0	0	0	0	
+181128_2142	1	timelog	1	38	206.0159999999742	1	59	0	0	0	0	
+181128_2142	1	timelog	1	39	206.0159999999742	1	60	0	0	0	0	
+181128_2142	1	timelog	1	40	206.0159999999742	1	61	0	0	0	0	
+181128_2142	1	timelog	1	41	206.0159999999742	1	62	0	0	0	0	
+181128_2142	1	timelog	1	42	206.0159999999742	1	63	0	0	0	0	
+181128_2142	1	timelog	1	43	206.0159999999742	1	64	0	0	0	0	
+181128_2142	1	timelog	1	44	206.0159999999742	1	65	0	0	0	0	
+181128_2142	1	timelog	1	45	206.0159999999742	1	66	0	0	0	0	
+181128_2142	1	timelog	1	46	206.0309999999881	1	67	0	0	0	0	
+181128_2142	1	timelog	1	47	206.0309999999881	1	68	0	0	0	0	
+181128_2142	1	timelog	1	48	206.0309999999881	2	51	0	0	0	0	
+181128_2142	1	timelog	1	49	206.0309999999881	2	52	0	0	0	0	
+181128_2142	1	timelog	1	50	206.0309999999881	2	53	0	0	0	0	
+181128_2142	1	timelog	1	51	206.0309999999881	2	54	0	0	0	0	
+181128_2142	1	timelog	1	52	206.0309999999881	2	55	0	0	0	0	
+181128_2142	1	timelog	1	53	206.0309999999881	2	56	0	0	0	0	
+181128_2142	1	timelog	1	54	206.0309999999881	2	57	0	0	0	0	
+181128_2142	1	timelog	1	55	206.0309999999881	2	58	0	0	0	0	
+181128_2142	1	timelog	1	56	206.0309999999881	2	59	0	0	0	0	
+181128_2142	1	timelog	1	57	206.0309999999881	2	60	0	0	0	0	
+181128_2142	1	timelog	1	58	206.0469999999914	2	61	0	0	0	0	
+181128_2142	1	timelog	1	59	206.0469999999914	2	62	0	0	0	0	
+181128_2142	1	timelog	1	60	206.0469999999914	2	63	0	0	0	0	
+181128_2142	1	timelog	1	61	206.0469999999914	2	64	0	0	0	0	
+181128_2142	1	timelog	1	62	206.0469999999914	2	65	0	0	0	0	
+181128_2142	1	timelog	1	63	206.0469999999914	2	66	0	0	0	0	
+181128_2142	1	timelog	1	64	206.0469999999914	2	67	0	0	0	0	
+181128_2142	1	timelog	1	65	206.0469999999914	2	68	0	0	0	0	
+181128_2142	1	transactions	Period	Market	OfferID	AcceptanceID	AccepterID	Price	Volume	Time	Phase	
+181128_2142	1	transactions	1	1	1	1	2	103	1	76.26599999997416	2	
+181128_2142	1	transactions	1	1	6	2	1	121	2	96.03099999998813	2	
