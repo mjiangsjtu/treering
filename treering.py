@@ -1,5 +1,5 @@
 '''
-Copyright (c) 2018 Ming Jiang, Jingchao Li
+Copyright (c) 2018 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -200,6 +200,7 @@ def WriteHistory(eventList):
                         worksheet.write(row, 6 + pos, j)
                     row += 1
         elif i['event'] == 'CGEMS_PGX_DBModify':
+            if 'm_period' not in i: continue
             worksheet.write(row, 0, int(i['m_period']) + 1)
             worksheet.write(row, 1, int(i['id']))
             worksheet.write(row, 2, i['time'])
@@ -234,7 +235,7 @@ def WriteDataTables(eventList, eventCutoff):
     #Find all events that change data tables (i.e. non-empty DBReplace and DBModify)
     dbReconstruct = [i for i in eventList if ((i['event'] == 'CGEMS_PGX_DBReplace' and i['target'] == '0' and
                                                GetTableAffected(i['content'])[0] != []) or 
-                                              (i['event'] == 'CGEMS_PGX_DBModify')) and int(i['id']) <= eventCutoff]
+                                              (i['event'] == 'CGEMS_PGX_DBModify') and 'm_period' in i) and int(i['id']) <= eventCutoff]
     currentPeriod = int(dbReconstruct[0]['m_period'])  #starting from the earliest period
     dataset = [] #each element in the list for one period
     dataset.append(dict()) #key for table name, value for table content in DataFrame
