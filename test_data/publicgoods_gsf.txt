@@ -1,0 +1,686 @@
+0	CGESMClientInfo	time	22:04:32
+0	CGESMClientInfo	source	-1
+0	CGESMClientInfo	target	-1
+0	CGESMClientInfo	owner	-2
+0	m_names2
+0	m_IPAddress10.60.1.58
+0	m_channel7999
+1	CGESMClientInfo	time	22:04:32
+1	CGESMClientInfo	source	-1
+1	CGESMClientInfo	target	-1
+1	CGESMClientInfo	owner	-2
+1	m_names1
+1	m_IPAddress10.60.1.58
+1	m_channel7998
+2	CGESMClientInfo	time	22:04:32
+2	CGESMClientInfo	source	-1
+2	CGESMClientInfo	target	-1
+2	CGESMClientInfo	owner	-2
+2	m_names3
+2	m_IPAddress10.60.1.58
+2	m_channel7997
+3	CGEMMStartGameOrQuester	time	19:41:36
+3	CGEMMStartGameOrQuester	source	-1
+3	CGEMMStartGameOrQuester	target	-1
+3	CGEMMStartGameOrQuester	owner	-2
+3	CGEMMStartGameOrQuester	m_fileName	D:\ztree\@2.ztt
+4	CGEMSIDInfo	time	19:41:52
+4	CGEMSIDInfo	source	-1
+4	CGEMSIDInfo	target	-1
+4	CGEMSIDInfo	owner	-2
+5	CGEMSSelectGame	time	22:04:38
+5	CGEMSSelectGame	source	-1
+5	CGEMSSelectGame	target	0
+5	CGEMSSelectGame	owner	-2
+5	CGEMSSelectGame	m_gameName	PGX
+5	CGEMSSelectGame	m_roleID	0
+5	CGEMSSelectGame	m_clearHistory	yes
+5	CGEMSSelectGame	m_treatmentCounter	1
+6	CGEMSParameters	time	22:04:38
+6	CGEMSParameters	source	-1
+6	CGEMSParameters	target	0
+6	CGEMSParameters	owner	-2
+6	CGEMSParameters	
+	numSubjects	3
+6	CGEMSParameters		numGroups	1
+6	CGEMSParameters		numPracticePeriods	0
+6	CGEMSParameters		numActualPeriods	1
+6	CGEMSParameters		exchangeRate	1.000000
+6	CGEMSParameters		startEndowment	0.000000
+6	CGEMSParameters		showUpFee	0.000000
+6	CGEMSParameters		startofperiodtime	
+6	CGEMSParameters		noAutoscope	no
+6	CGEMSParameters		firstBoxesOnTop	no
+7	CGEMSSelectGame	time	22:04:38
+7	CGEMSSelectGame	source	-1
+7	CGEMSSelectGame	target	1
+7	CGEMSSelectGame	owner	-2
+7	CGEMSSelectGame	m_gameName	PGX
+7	CGEMSSelectGame	m_roleID	1
+7	CGEMSSelectGame	m_clearHistory	yes
+7	CGEMSSelectGame	m_treatmentCounter	1
+8	CGEMSParameters	time	22:04:38
+8	CGEMSParameters	source	-1
+8	CGEMSParameters	target	1
+8	CGEMSParameters	owner	-2
+8	CGEMSParameters	
+	numSubjects	3
+8	CGEMSParameters		numGroups	1
+8	CGEMSParameters		numPracticePeriods	0
+8	CGEMSParameters		numActualPeriods	1
+8	CGEMSParameters		exchangeRate	1.000000
+8	CGEMSParameters		startEndowment	0.000000
+8	CGEMSParameters		showUpFee	0.000000
+8	CGEMSParameters		startofperiodtime	
+8	CGEMSParameters		noAutoscope	no
+8	CGEMSParameters		firstBoxesOnTop	no
+9	CGEMSSelectGame	time	22:04:38
+9	CGEMSSelectGame	source	-1
+9	CGEMSSelectGame	target	2
+9	CGEMSSelectGame	owner	-2
+9	CGEMSSelectGame	m_gameName	PGX
+9	CGEMSSelectGame	m_roleID	2
+9	CGEMSSelectGame	m_clearHistory	yes
+9	CGEMSSelectGame	m_treatmentCounter	1
+10	CGEMSParameters	time	22:04:38
+10	CGEMSParameters	source	-1
+10	CGEMSParameters	target	2
+10	CGEMSParameters	owner	-2
+10	CGEMSParameters	
+	numSubjects	3
+10	CGEMSParameters		numGroups	1
+10	CGEMSParameters		numPracticePeriods	0
+10	CGEMSParameters		numActualPeriods	1
+10	CGEMSParameters		exchangeRate	1.000000
+10	CGEMSParameters		startEndowment	0.000000
+10	CGEMSParameters		showUpFee	0.000000
+10	CGEMSParameters		startofperiodtime	
+10	CGEMSParameters		noAutoscope	no
+10	CGEMSParameters		firstBoxesOnTop	no
+11	CGEMS_PGX_PeriodParameters	time	22:04:38
+11	CGEMS_PGX_PeriodParameters	source	-1
+11	CGEMS_PGX_PeriodParameters	target	0
+11	CGEMS_PGX_PeriodParameters	owner	-2
+12	CGEMS_PGX_PeriodParameters	time	22:04:38
+12	CGEMS_PGX_PeriodParameters	source	-1
+12	CGEMS_PGX_PeriodParameters	target	1
+12	CGEMS_PGX_PeriodParameters	owner	-2
+13	CGEMS_PGX_PeriodParameters	time	22:04:38
+13	CGEMS_PGX_PeriodParameters	source	-1
+13	CGEMS_PGX_PeriodParameters	target	2
+13	CGEMS_PGX_PeriodParameters	owner	-2
+14	CGEMS_PGX_DBReplace	time	22:04:38
+14	CGEMS_PGX_DBReplace	source	-1
+14	CGEMS_PGX_DBReplace	target	0
+14	CGEMS_PGX_DBReplace	owner	-2
+14	CGEMS_PGX_DBReplace	m_period	0
+14	CGEMS_PGX_DBReplace	m_period	0
+14	CGEMS_PGX_DBReplace		TABLE	globals
+14	CGEMS_PGX_DBReplace	
+14	CGEMS_PGX_DBReplace	
+14	CGEMS_PGX_DBReplace		TABLE	subjects
+14	CGEMS_PGX_DBReplace		Endowment
+14	CGEMS_PGX_DBReplace		20
+14	CGEMS_PGX_DBReplace		20
+14	CGEMS_PGX_DBReplace		20
+14	CGEMS_PGX_DBReplace		TABLE	summary
+14	CGEMS_PGX_DBReplace	
+14	CGEMS_PGX_DBReplace	
+14	CGEMS_PGX_DBReplace		TABLE	contracts
+14	CGEMS_PGX_DBReplace	
+14	CGEMS_PGX_DBReplace		TABLE	session
+14	CGEMS_PGX_DBReplace	
+14	CGEMS_PGX_DBReplace	
+14	CGEMS_PGX_DBReplace	
+14	CGEMS_PGX_DBReplace	
+15	CGEMS_PGX_DBReplace	time	22:04:38
+15	CGEMS_PGX_DBReplace	source	-1
+15	CGEMS_PGX_DBReplace	target	1
+15	CGEMS_PGX_DBReplace	owner	-2
+15	CGEMS_PGX_DBReplace	m_period	0
+15	CGEMS_PGX_DBReplace	m_period	0
+15	CGEMS_PGX_DBReplace		TABLE	globals
+15	CGEMS_PGX_DBReplace	
+15	CGEMS_PGX_DBReplace	
+15	CGEMS_PGX_DBReplace		TABLE	subjects
+15	CGEMS_PGX_DBReplace		Endowment
+15	CGEMS_PGX_DBReplace		20
+15	CGEMS_PGX_DBReplace		20
+15	CGEMS_PGX_DBReplace		20
+15	CGEMS_PGX_DBReplace		TABLE	summary
+15	CGEMS_PGX_DBReplace	
+15	CGEMS_PGX_DBReplace	
+15	CGEMS_PGX_DBReplace		TABLE	contracts
+15	CGEMS_PGX_DBReplace	
+15	CGEMS_PGX_DBReplace		TABLE	session
+15	CGEMS_PGX_DBReplace	
+15	CGEMS_PGX_DBReplace	
+15	CGEMS_PGX_DBReplace	
+15	CGEMS_PGX_DBReplace	
+16	CGEMS_PGX_DBReplace	time	22:04:38
+16	CGEMS_PGX_DBReplace	source	-1
+16	CGEMS_PGX_DBReplace	target	2
+16	CGEMS_PGX_DBReplace	owner	-2
+16	CGEMS_PGX_DBReplace	m_period	0
+16	CGEMS_PGX_DBReplace	m_period	0
+16	CGEMS_PGX_DBReplace		TABLE	globals
+16	CGEMS_PGX_DBReplace	
+16	CGEMS_PGX_DBReplace	
+16	CGEMS_PGX_DBReplace		TABLE	subjects
+16	CGEMS_PGX_DBReplace		Endowment
+16	CGEMS_PGX_DBReplace		20
+16	CGEMS_PGX_DBReplace		20
+16	CGEMS_PGX_DBReplace		20
+16	CGEMS_PGX_DBReplace		TABLE	summary
+16	CGEMS_PGX_DBReplace	
+16	CGEMS_PGX_DBReplace	
+16	CGEMS_PGX_DBReplace		TABLE	contracts
+16	CGEMS_PGX_DBReplace	
+16	CGEMS_PGX_DBReplace		TABLE	session
+16	CGEMS_PGX_DBReplace	
+16	CGEMS_PGX_DBReplace	
+16	CGEMS_PGX_DBReplace	
+16	CGEMS_PGX_DBReplace	
+17	CGEMS_PGX_GoStage	time	22:04:38
+17	CGEMS_PGX_GoStage	source	-1
+17	CGEMS_PGX_GoStage	target	0
+17	CGEMS_PGX_GoStage	owner	-2
+17	CGEMS_PGX_GoStage	m_period	0
+18	CGEMS_PGX_GoStage	time	22:04:38
+18	CGEMS_PGX_GoStage	source	-1
+18	CGEMS_PGX_GoStage	target	1
+18	CGEMS_PGX_GoStage	owner	-2
+18	CGEMS_PGX_GoStage	m_period	0
+19	CGEMS_PGX_GoStage	time	22:04:38
+19	CGEMS_PGX_GoStage	source	-1
+19	CGEMS_PGX_GoStage	target	2
+19	CGEMS_PGX_GoStage	owner	-2
+19	CGEMS_PGX_GoStage	m_period	0
+20	CGESM_PGX_StageDone	time	22:04:43
+20	CGESM_PGX_StageDone	source	0
+20	CGESM_PGX_StageDone	target	-1
+20	CGESM_PGX_StageDone	owner	-2
+20	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers20	CGESM_PGX_StageDone	
+20	CGESM_PGX_StageDone	m_period	0
+20	CGESM_PGX_StageDone	m_state	*** Contribution Entry ***
+20	CGESM_PGX_StageDone	m_windowID	8
+20	CGESM_PGX_StageDone	m_buttonID	11
+20	CGESM_PGX_StageDone	m_doUnlockD	1
+20	CGESM_PGX_StageDone	 subjects	TimeOKContributionEntryOK	0	1262396580503171400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+20	CGESM_PGX_StageDone	 subjects	Contribution	0	1262396580503154400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+21	CGESM_PGX_StageDone	time	22:04:43
+21	CGESM_PGX_StageDone	source	-1
+21	CGESM_PGX_StageDone	target	0
+21	CGESM_PGX_StageDone	owner	-2
+21	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers21	CGESM_PGX_StageDone	
+21	CGESM_PGX_StageDone	m_period	0
+21	CGESM_PGX_StageDone	m_state	*** Contribution Entry ***
+21	CGESM_PGX_StageDone	m_windowID	8
+21	CGESM_PGX_StageDone	m_buttonID	11
+21	CGESM_PGX_StageDone	m_doUnlockD	1
+21	CGESM_PGX_StageDone	 subjects	TimeOKContributionEntryOK	0	1262396580503154400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+21	CGESM_PGX_StageDone	 subjects	Contribution	0	1262396580503158700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+22	CGEMS_PGX_DBModify	time	22:04:43
+22	CGEMS_PGX_DBModify	source	-1
+22	CGEMS_PGX_DBModify	target	0
+22	CGEMS_PGX_DBModify	owner	-2
+22	CGEMS_PGX_DBModify	m_period	0
+22	CGEMS_PGX_DBModify	m_operation	DBChangeRecord
+22	CGEMS_PGX_DBModify	m_DB	subjects
+22	CGEMS_PGX_DBModify	m_recordNrs	0
+22	CGEMS_PGX_DBModify		Endowment	Contribution
+22	CGEMS_PGX_DBModify		20	11
+23	CGEMS_PGX_CheckerMessage	time	22:04:43
+23	CGEMS_PGX_CheckerMessage	source	-1
+23	CGEMS_PGX_CheckerMessage	target	0
+23	CGEMS_PGX_CheckerMessage	owner	-2
+23	CGEMS_PGX_CheckerMessage	m_period	0
+23	CGEMS_PGX_CheckerMessage	m_state	*** Contribution Entry ***
+23	CGEMS_PGX_CheckerMessage	m_checkerID	11
+24	CGESM_PGX_StageDone	time	22:04:43
+24	CGESM_PGX_StageDone	source	-1
+24	CGESM_PGX_StageDone	target	0
+24	CGESM_PGX_StageDone	owner	-2
+24	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers24	CGESM_PGX_StageDone	
+24	CGESM_PGX_StageDone	m_period	0
+24	CGESM_PGX_StageDone	m_state	*** Contribution Entry ***
+24	CGESM_PGX_StageDone	m_windowID	-1
+24	CGESM_PGX_StageDone	m_buttonID	-1
+24	CGESM_PGX_StageDone	m_doUnlockD	0
+25	CGEMS_PGX_Unlock	time	22:04:43
+25	CGEMS_PGX_Unlock	source	-1
+25	CGEMS_PGX_Unlock	target	0
+25	CGEMS_PGX_Unlock	owner	-2
+26	CGESM_PGX_StageDone	time	22:04:44
+26	CGESM_PGX_StageDone	source	2
+26	CGESM_PGX_StageDone	target	-1
+26	CGESM_PGX_StageDone	owner	-2
+26	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers26	CGESM_PGX_StageDone	
+26	CGESM_PGX_StageDone	m_period	0
+26	CGESM_PGX_StageDone	m_state	*** Contribution Entry ***
+26	CGESM_PGX_StageDone	m_windowID	8
+26	CGESM_PGX_StageDone	m_buttonID	11
+26	CGESM_PGX_StageDone	m_doUnlockD	1
+26	CGESM_PGX_StageDone	 subjects	TimeOKContributionEntryOK	2	1262396580503188300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+26	CGESM_PGX_StageDone	 subjects	Contribution	2	1262396580503107800000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+27	CGESM_PGX_StageDone	time	22:04:44
+27	CGESM_PGX_StageDone	source	-1
+27	CGESM_PGX_StageDone	target	2
+27	CGESM_PGX_StageDone	owner	-2
+27	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers27	CGESM_PGX_StageDone	
+27	CGESM_PGX_StageDone	m_period	0
+27	CGESM_PGX_StageDone	m_state	*** Contribution Entry ***
+27	CGESM_PGX_StageDone	m_windowID	8
+27	CGESM_PGX_StageDone	m_buttonID	11
+27	CGESM_PGX_StageDone	m_doUnlockD	1
+27	CGESM_PGX_StageDone	 subjects	TimeOKContributionEntryOK	2	1262396580503095100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+27	CGESM_PGX_StageDone	 subjects	Contribution	2	1262396580503162900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+28	CGEMS_PGX_DBModify	time	22:04:44
+28	CGEMS_PGX_DBModify	source	-1
+28	CGEMS_PGX_DBModify	target	2
+28	CGEMS_PGX_DBModify	owner	-2
+28	CGEMS_PGX_DBModify	m_period	0
+28	CGEMS_PGX_DBModify	m_operation	DBChangeRecord
+28	CGEMS_PGX_DBModify	m_DB	subjects
+28	CGEMS_PGX_DBModify	m_recordNrs	2
+28	CGEMS_PGX_DBModify		Endowment	Contribution
+28	CGEMS_PGX_DBModify		20	12
+29	CGEMS_PGX_CheckerMessage	time	22:04:44
+29	CGEMS_PGX_CheckerMessage	source	-1
+29	CGEMS_PGX_CheckerMessage	target	2
+29	CGEMS_PGX_CheckerMessage	owner	-2
+29	CGEMS_PGX_CheckerMessage	m_period	0
+29	CGEMS_PGX_CheckerMessage	m_state	*** Contribution Entry ***
+29	CGEMS_PGX_CheckerMessage	m_checkerID	11
+30	CGESM_PGX_StageDone	time	22:04:44
+30	CGESM_PGX_StageDone	source	-1
+30	CGESM_PGX_StageDone	target	2
+30	CGESM_PGX_StageDone	owner	-2
+30	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers30	CGESM_PGX_StageDone	
+30	CGESM_PGX_StageDone	m_period	0
+30	CGESM_PGX_StageDone	m_state	*** Contribution Entry ***
+30	CGESM_PGX_StageDone	m_windowID	-1
+30	CGESM_PGX_StageDone	m_buttonID	-1
+30	CGESM_PGX_StageDone	m_doUnlockD	0
+31	CGEMS_PGX_Unlock	time	22:04:44
+31	CGEMS_PGX_Unlock	source	-1
+31	CGEMS_PGX_Unlock	target	2
+31	CGEMS_PGX_Unlock	owner	-2
+32	CGESM_PGX_StageDone	time	22:04:48
+32	CGESM_PGX_StageDone	source	1
+32	CGESM_PGX_StageDone	target	-1
+32	CGESM_PGX_StageDone	owner	-2
+32	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers32	CGESM_PGX_StageDone	
+32	CGESM_PGX_StageDone	m_period	0
+32	CGESM_PGX_StageDone	m_state	*** Contribution Entry ***
+32	CGESM_PGX_StageDone	m_windowID	8
+32	CGESM_PGX_StageDone	m_buttonID	11
+32	CGESM_PGX_StageDone	m_doUnlockD	1
+32	CGESM_PGX_StageDone	 subjects	TimeOKContributionEntryOK	1	1262396580503175600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+32	CGESM_PGX_StageDone	 subjects	Contribution	1	1262396580503205300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+33	CGESM_PGX_StageDone	time	22:04:48
+33	CGESM_PGX_StageDone	source	-1
+33	CGESM_PGX_StageDone	target	1
+33	CGESM_PGX_StageDone	owner	-2
+33	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers33	CGESM_PGX_StageDone	
+33	CGESM_PGX_StageDone	m_period	0
+33	CGESM_PGX_StageDone	m_state	*** Contribution Entry ***
+33	CGESM_PGX_StageDone	m_windowID	8
+33	CGESM_PGX_StageDone	m_buttonID	11
+33	CGESM_PGX_StageDone	m_doUnlockD	1
+33	CGESM_PGX_StageDone	 subjects	TimeOKContributionEntryOK	1	1262396580503184100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+33	CGESM_PGX_StageDone	 subjects	Contribution	1	1262396580503133300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+34	CGEMS_PGX_DBModify	time	22:04:48
+34	CGEMS_PGX_DBModify	source	-1
+34	CGEMS_PGX_DBModify	target	1
+34	CGEMS_PGX_DBModify	owner	-2
+34	CGEMS_PGX_DBModify	m_period	0
+34	CGEMS_PGX_DBModify	m_operation	DBChangeRecord
+34	CGEMS_PGX_DBModify	m_DB	subjects
+34	CGEMS_PGX_DBModify	m_recordNrs	1
+34	CGEMS_PGX_DBModify		Endowment	Contribution
+34	CGEMS_PGX_DBModify		20	13
+35	CGEMS_PGX_CheckerMessage	time	22:04:48
+35	CGEMS_PGX_CheckerMessage	source	-1
+35	CGEMS_PGX_CheckerMessage	target	1
+35	CGEMS_PGX_CheckerMessage	owner	-2
+35	CGEMS_PGX_CheckerMessage	m_period	0
+35	CGEMS_PGX_CheckerMessage	m_state	*** Contribution Entry ***
+35	CGEMS_PGX_CheckerMessage	m_checkerID	11
+36	CGESM_PGX_StageDone	time	22:04:48
+36	CGESM_PGX_StageDone	source	-1
+36	CGESM_PGX_StageDone	target	1
+36	CGESM_PGX_StageDone	owner	-2
+36	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers36	CGESM_PGX_StageDone	
+36	CGESM_PGX_StageDone	m_period	0
+36	CGESM_PGX_StageDone	m_state	*** Contribution Entry ***
+36	CGESM_PGX_StageDone	m_windowID	-1
+36	CGESM_PGX_StageDone	m_buttonID	-1
+36	CGESM_PGX_StageDone	m_doUnlockD	0
+37	CGEMS_PGX_Unlock	time	22:04:48
+37	CGEMS_PGX_Unlock	source	-1
+37	CGEMS_PGX_Unlock	target	1
+37	CGEMS_PGX_Unlock	owner	-2
+38	CGEMS_PGX_DBReplace	time	22:04:48
+38	CGEMS_PGX_DBReplace	source	-1
+38	CGEMS_PGX_DBReplace	target	0
+38	CGEMS_PGX_DBReplace	owner	-2
+38	CGEMS_PGX_DBReplace	m_period	0
+38	CGEMS_PGX_DBReplace	m_period	0
+38	CGEMS_PGX_DBReplace		TABLE	globals
+38	CGEMS_PGX_DBReplace	
+38	CGEMS_PGX_DBReplace	
+38	CGEMS_PGX_DBReplace		TABLE	subjects
+38	CGEMS_PGX_DBReplace		Contribution	SumC	Profit
+38	CGEMS_PGX_DBReplace		11	36	28.2
+38	CGEMS_PGX_DBReplace		13	36	26.2
+38	CGEMS_PGX_DBReplace		12	36	27.2
+38	CGEMS_PGX_DBReplace		TABLE	summary
+38	CGEMS_PGX_DBReplace	
+38	CGEMS_PGX_DBReplace	
+38	CGEMS_PGX_DBReplace		TABLE	contracts
+38	CGEMS_PGX_DBReplace	
+38	CGEMS_PGX_DBReplace		TABLE	session
+38	CGEMS_PGX_DBReplace	
+38	CGEMS_PGX_DBReplace	
+38	CGEMS_PGX_DBReplace	
+38	CGEMS_PGX_DBReplace	
+39	CGEMS_PGX_DBReplace	time	22:04:48
+39	CGEMS_PGX_DBReplace	source	-1
+39	CGEMS_PGX_DBReplace	target	1
+39	CGEMS_PGX_DBReplace	owner	-2
+39	CGEMS_PGX_DBReplace	m_period	0
+39	CGEMS_PGX_DBReplace	m_period	0
+39	CGEMS_PGX_DBReplace		TABLE	globals
+39	CGEMS_PGX_DBReplace	
+39	CGEMS_PGX_DBReplace	
+39	CGEMS_PGX_DBReplace		TABLE	subjects
+39	CGEMS_PGX_DBReplace		Contribution	SumC	Profit
+39	CGEMS_PGX_DBReplace		11	36	28.2
+39	CGEMS_PGX_DBReplace		13	36	26.2
+39	CGEMS_PGX_DBReplace		12	36	27.2
+39	CGEMS_PGX_DBReplace		TABLE	summary
+39	CGEMS_PGX_DBReplace	
+39	CGEMS_PGX_DBReplace	
+39	CGEMS_PGX_DBReplace		TABLE	contracts
+39	CGEMS_PGX_DBReplace	
+39	CGEMS_PGX_DBReplace		TABLE	session
+39	CGEMS_PGX_DBReplace	
+39	CGEMS_PGX_DBReplace	
+39	CGEMS_PGX_DBReplace	
+39	CGEMS_PGX_DBReplace	
+40	CGEMS_PGX_DBReplace	time	22:04:48
+40	CGEMS_PGX_DBReplace	source	-1
+40	CGEMS_PGX_DBReplace	target	2
+40	CGEMS_PGX_DBReplace	owner	-2
+40	CGEMS_PGX_DBReplace	m_period	0
+40	CGEMS_PGX_DBReplace	m_period	0
+40	CGEMS_PGX_DBReplace		TABLE	globals
+40	CGEMS_PGX_DBReplace	
+40	CGEMS_PGX_DBReplace	
+40	CGEMS_PGX_DBReplace		TABLE	subjects
+40	CGEMS_PGX_DBReplace		Contribution	SumC	Profit
+40	CGEMS_PGX_DBReplace		11	36	28.2
+40	CGEMS_PGX_DBReplace		13	36	26.2
+40	CGEMS_PGX_DBReplace		12	36	27.2
+40	CGEMS_PGX_DBReplace		TABLE	summary
+40	CGEMS_PGX_DBReplace	
+40	CGEMS_PGX_DBReplace	
+40	CGEMS_PGX_DBReplace		TABLE	contracts
+40	CGEMS_PGX_DBReplace	
+40	CGEMS_PGX_DBReplace		TABLE	session
+40	CGEMS_PGX_DBReplace	
+40	CGEMS_PGX_DBReplace	
+40	CGEMS_PGX_DBReplace	
+40	CGEMS_PGX_DBReplace	
+41	CGEMS_PGX_GoStage	time	22:04:48
+41	CGEMS_PGX_GoStage	source	-1
+41	CGEMS_PGX_GoStage	target	0
+41	CGEMS_PGX_GoStage	owner	-2
+41	CGEMS_PGX_GoStage	m_period	0
+42	CGEMS_PGX_GoStage	time	22:04:48
+42	CGEMS_PGX_GoStage	source	-1
+42	CGEMS_PGX_GoStage	target	1
+42	CGEMS_PGX_GoStage	owner	-2
+42	CGEMS_PGX_GoStage	m_period	0
+43	CGEMS_PGX_GoStage	time	22:04:48
+43	CGEMS_PGX_GoStage	source	-1
+43	CGEMS_PGX_GoStage	target	2
+43	CGEMS_PGX_GoStage	owner	-2
+43	CGEMS_PGX_GoStage	m_period	0
+44	CGESM_PGX_StageDone	time	22:04:49
+44	CGESM_PGX_StageDone	source	1
+44	CGESM_PGX_StageDone	target	-1
+44	CGESM_PGX_StageDone	owner	-2
+44	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers44	CGESM_PGX_StageDone	
+44	CGESM_PGX_StageDone	m_period	0
+44	CGESM_PGX_StageDone	m_state	*** Profit Display ***
+44	CGESM_PGX_StageDone	m_windowID	16
+44	CGESM_PGX_StageDone	m_buttonID	20
+44	CGESM_PGX_StageDone	m_doUnlockD	1
+44	CGESM_PGX_StageDone	 subjects	TimeContinueProfitDisplayOK	1	1262396580503184100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+45	CGESM_PGX_StageDone	time	22:04:49
+45	CGESM_PGX_StageDone	source	-1
+45	CGESM_PGX_StageDone	target	1
+45	CGESM_PGX_StageDone	owner	-2
+45	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers45	CGESM_PGX_StageDone	
+45	CGESM_PGX_StageDone	m_period	0
+45	CGESM_PGX_StageDone	m_state	*** Profit Display ***
+45	CGESM_PGX_StageDone	m_windowID	16
+45	CGESM_PGX_StageDone	m_buttonID	20
+45	CGESM_PGX_StageDone	m_doUnlockD	1
+45	CGESM_PGX_StageDone	 subjects	TimeContinueProfitDisplayOK	1	1262396580503162900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+46	CGEMS_PGX_DBModify	time	22:04:49
+46	CGEMS_PGX_DBModify	source	-1
+46	CGEMS_PGX_DBModify	target	1
+46	CGEMS_PGX_DBModify	owner	-2
+46	CGEMS_PGX_DBModify	m_period	0
+46	CGEMS_PGX_DBModify	m_operation	DBChangeRecord
+46	CGEMS_PGX_DBModify	m_DB	subjects
+46	CGEMS_PGX_DBModify	m_recordNrs	1
+46	CGEMS_PGX_DBModify		Contribution	SumC	Profit
+46	CGEMS_PGX_DBModify		13	36	26.2
+47	CGEMS_PGX_CheckerMessage	time	22:04:49
+47	CGEMS_PGX_CheckerMessage	source	-1
+47	CGEMS_PGX_CheckerMessage	target	1
+47	CGEMS_PGX_CheckerMessage	owner	-2
+47	CGEMS_PGX_CheckerMessage	m_period	0
+47	CGEMS_PGX_CheckerMessage	m_state	*** Profit Display ***
+47	CGEMS_PGX_CheckerMessage	m_checkerID	20
+48	CGESM_PGX_StageDone	time	22:04:49
+48	CGESM_PGX_StageDone	source	-1
+48	CGESM_PGX_StageDone	target	1
+48	CGESM_PGX_StageDone	owner	-2
+48	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers48	CGESM_PGX_StageDone	
+48	CGESM_PGX_StageDone	m_period	0
+48	CGESM_PGX_StageDone	m_state	*** Profit Display ***
+48	CGESM_PGX_StageDone	m_windowID	-1
+48	CGESM_PGX_StageDone	m_buttonID	-1
+48	CGESM_PGX_StageDone	m_doUnlockD	0
+49	CGEMS_PGX_Unlock	time	22:04:49
+49	CGEMS_PGX_Unlock	source	-1
+49	CGEMS_PGX_Unlock	target	1
+49	CGEMS_PGX_Unlock	owner	-2
+50	CGESM_PGX_StageDone	time	22:04:50
+50	CGESM_PGX_StageDone	source	2
+50	CGESM_PGX_StageDone	target	-1
+50	CGESM_PGX_StageDone	owner	-2
+50	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers50	CGESM_PGX_StageDone	
+50	CGESM_PGX_StageDone	m_period	0
+50	CGESM_PGX_StageDone	m_state	*** Profit Display ***
+50	CGESM_PGX_StageDone	m_windowID	16
+50	CGESM_PGX_StageDone	m_buttonID	20
+50	CGESM_PGX_StageDone	m_doUnlockD	1
+50	CGESM_PGX_StageDone	 subjects	TimeContinueProfitDisplayOK	2	1262396580503171400000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+51	CGESM_PGX_StageDone	time	22:04:50
+51	CGESM_PGX_StageDone	source	-1
+51	CGESM_PGX_StageDone	target	2
+51	CGESM_PGX_StageDone	owner	-2
+51	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers51	CGESM_PGX_StageDone	
+51	CGESM_PGX_StageDone	m_period	0
+51	CGESM_PGX_StageDone	m_state	*** Profit Display ***
+51	CGESM_PGX_StageDone	m_windowID	16
+51	CGESM_PGX_StageDone	m_buttonID	20
+51	CGESM_PGX_StageDone	m_doUnlockD	1
+51	CGESM_PGX_StageDone	 subjects	TimeContinueProfitDisplayOK	2	1262396580503086700000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+52	CGEMS_PGX_DBModify	time	22:04:50
+52	CGEMS_PGX_DBModify	source	-1
+52	CGEMS_PGX_DBModify	target	2
+52	CGEMS_PGX_DBModify	owner	-2
+52	CGEMS_PGX_DBModify	m_period	0
+52	CGEMS_PGX_DBModify	m_operation	DBChangeRecord
+52	CGEMS_PGX_DBModify	m_DB	subjects
+52	CGEMS_PGX_DBModify	m_recordNrs	2
+52	CGEMS_PGX_DBModify		Contribution	SumC	Profit
+52	CGEMS_PGX_DBModify		12	36	27.2
+53	CGEMS_PGX_CheckerMessage	time	22:04:50
+53	CGEMS_PGX_CheckerMessage	source	-1
+53	CGEMS_PGX_CheckerMessage	target	2
+53	CGEMS_PGX_CheckerMessage	owner	-2
+53	CGEMS_PGX_CheckerMessage	m_period	0
+53	CGEMS_PGX_CheckerMessage	m_state	*** Profit Display ***
+53	CGEMS_PGX_CheckerMessage	m_checkerID	20
+54	CGESM_PGX_StageDone	time	22:04:50
+54	CGESM_PGX_StageDone	source	-1
+54	CGESM_PGX_StageDone	target	2
+54	CGESM_PGX_StageDone	owner	-2
+54	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers54	CGESM_PGX_StageDone	
+54	CGESM_PGX_StageDone	m_period	0
+54	CGESM_PGX_StageDone	m_state	*** Profit Display ***
+54	CGESM_PGX_StageDone	m_windowID	-1
+54	CGESM_PGX_StageDone	m_buttonID	-1
+54	CGESM_PGX_StageDone	m_doUnlockD	0
+55	CGEMS_PGX_Unlock	time	22:04:50
+55	CGEMS_PGX_Unlock	source	-1
+55	CGEMS_PGX_Unlock	target	2
+55	CGEMS_PGX_Unlock	owner	-2
+56	CGESM_PGX_StageDone	time	22:04:56
+56	CGESM_PGX_StageDone	source	0
+56	CGESM_PGX_StageDone	target	-1
+56	CGESM_PGX_StageDone	owner	-2
+56	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers56	CGESM_PGX_StageDone	
+56	CGESM_PGX_StageDone	m_period	0
+56	CGESM_PGX_StageDone	m_state	*** Profit Display ***
+56	CGESM_PGX_StageDone	m_windowID	16
+56	CGESM_PGX_StageDone	m_buttonID	20
+56	CGESM_PGX_StageDone	m_doUnlockD	1
+56	CGESM_PGX_StageDone	 subjects	TimeContinueProfitDisplayOK	0	1262396580503162900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+57	CGESM_PGX_StageDone	time	22:04:56
+57	CGESM_PGX_StageDone	source	-1
+57	CGESM_PGX_StageDone	target	0
+57	CGESM_PGX_StageDone	owner	-2
+57	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers57	CGESM_PGX_StageDone	
+57	CGESM_PGX_StageDone	m_period	0
+57	CGESM_PGX_StageDone	m_state	*** Profit Display ***
+57	CGESM_PGX_StageDone	m_windowID	16
+57	CGESM_PGX_StageDone	m_buttonID	20
+57	CGESM_PGX_StageDone	m_doUnlockD	1
+57	CGESM_PGX_StageDone	 subjects	TimeContinueProfitDisplayOK	0	1262396580503133300000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000
+58	CGEMS_PGX_DBModify	time	22:04:56
+58	CGEMS_PGX_DBModify	source	-1
+58	CGEMS_PGX_DBModify	target	0
+58	CGEMS_PGX_DBModify	owner	-2
+58	CGEMS_PGX_DBModify	m_period	0
+58	CGEMS_PGX_DBModify	m_operation	DBChangeRecord
+58	CGEMS_PGX_DBModify	m_DB	subjects
+58	CGEMS_PGX_DBModify	m_recordNrs	0
+58	CGEMS_PGX_DBModify		Contribution	SumC	Profit
+58	CGEMS_PGX_DBModify		11	36	28.2
+59	CGEMS_PGX_CheckerMessage	time	22:04:56
+59	CGEMS_PGX_CheckerMessage	source	-1
+59	CGEMS_PGX_CheckerMessage	target	0
+59	CGEMS_PGX_CheckerMessage	owner	-2
+59	CGEMS_PGX_CheckerMessage	m_period	0
+59	CGEMS_PGX_CheckerMessage	m_state	*** Profit Display ***
+59	CGEMS_PGX_CheckerMessage	m_checkerID	20
+60	CGESM_PGX_StageDone	time	22:04:56
+60	CGESM_PGX_StageDone	source	-1
+60	CGESM_PGX_StageDone	target	0
+60	CGESM_PGX_StageDone	owner	-2
+60	CGESM_PGX_StageDone	m_IDsOfAcceptedCheckers60	CGESM_PGX_StageDone	
+60	CGESM_PGX_StageDone	m_period	0
+60	CGESM_PGX_StageDone	m_state	*** Profit Display ***
+60	CGESM_PGX_StageDone	m_windowID	-1
+60	CGESM_PGX_StageDone	m_buttonID	-1
+60	CGESM_PGX_StageDone	m_doUnlockD	0
+61	CGEMS_PGX_Unlock	time	22:04:56
+61	CGEMS_PGX_Unlock	source	-1
+61	CGEMS_PGX_Unlock	target	0
+61	CGEMS_PGX_Unlock	owner	-2
+62	CGEMS_PGX_DBReplace	time	22:04:56
+62	CGEMS_PGX_DBReplace	source	-1
+62	CGEMS_PGX_DBReplace	target	0
+62	CGEMS_PGX_DBReplace	owner	-2
+62	CGEMS_PGX_DBReplace	m_period	0
+62	CGEMS_PGX_DBReplace	m_period	0
+62	CGEMS_PGX_DBReplace		TABLE	globals
+62	CGEMS_PGX_DBReplace	
+62	CGEMS_PGX_DBReplace	
+62	CGEMS_PGX_DBReplace		TABLE	subjects
+62	CGEMS_PGX_DBReplace		Endowment	Contribution	SumC	Profit
+62	CGEMS_PGX_DBReplace		20	11	36	28.2
+62	CGEMS_PGX_DBReplace		20	13	36	26.2
+62	CGEMS_PGX_DBReplace		20	12	36	27.2
+62	CGEMS_PGX_DBReplace		TABLE	summary
+62	CGEMS_PGX_DBReplace	
+62	CGEMS_PGX_DBReplace	
+62	CGEMS_PGX_DBReplace		TABLE	contracts
+62	CGEMS_PGX_DBReplace	
+62	CGEMS_PGX_DBReplace		TABLE	session
+62	CGEMS_PGX_DBReplace	
+62	CGEMS_PGX_DBReplace	
+62	CGEMS_PGX_DBReplace	
+62	CGEMS_PGX_DBReplace	
+63	CGEMS_PGX_DBReplace	time	22:04:56
+63	CGEMS_PGX_DBReplace	source	-1
+63	CGEMS_PGX_DBReplace	target	1
+63	CGEMS_PGX_DBReplace	owner	-2
+63	CGEMS_PGX_DBReplace	m_period	0
+63	CGEMS_PGX_DBReplace	m_period	0
+63	CGEMS_PGX_DBReplace		TABLE	globals
+63	CGEMS_PGX_DBReplace	
+63	CGEMS_PGX_DBReplace	
+63	CGEMS_PGX_DBReplace		TABLE	subjects
+63	CGEMS_PGX_DBReplace		Endowment	Contribution	SumC	Profit
+63	CGEMS_PGX_DBReplace		20	11	36	28.2
+63	CGEMS_PGX_DBReplace		20	13	36	26.2
+63	CGEMS_PGX_DBReplace		20	12	36	27.2
+63	CGEMS_PGX_DBReplace		TABLE	summary
+63	CGEMS_PGX_DBReplace	
+63	CGEMS_PGX_DBReplace	
+63	CGEMS_PGX_DBReplace		TABLE	contracts
+63	CGEMS_PGX_DBReplace	
+63	CGEMS_PGX_DBReplace		TABLE	session
+63	CGEMS_PGX_DBReplace	
+63	CGEMS_PGX_DBReplace	
+63	CGEMS_PGX_DBReplace	
+63	CGEMS_PGX_DBReplace	
+64	CGEMS_PGX_DBReplace	time	22:04:56
+64	CGEMS_PGX_DBReplace	source	-1
+64	CGEMS_PGX_DBReplace	target	2
+64	CGEMS_PGX_DBReplace	owner	-2
+64	CGEMS_PGX_DBReplace	m_period	0
+64	CGEMS_PGX_DBReplace	m_period	0
+64	CGEMS_PGX_DBReplace		TABLE	globals
+64	CGEMS_PGX_DBReplace	
+64	CGEMS_PGX_DBReplace	
+64	CGEMS_PGX_DBReplace		TABLE	subjects
+64	CGEMS_PGX_DBReplace		Endowment	Contribution	SumC	Profit
+64	CGEMS_PGX_DBReplace		20	11	36	28.2
+64	CGEMS_PGX_DBReplace		20	13	36	26.2
+64	CGEMS_PGX_DBReplace		20	12	36	27.2
+64	CGEMS_PGX_DBReplace		TABLE	summary
+64	CGEMS_PGX_DBReplace	
+64	CGEMS_PGX_DBReplace	
+64	CGEMS_PGX_DBReplace		TABLE	contracts
+64	CGEMS_PGX_DBReplace	
+64	CGEMS_PGX_DBReplace		TABLE	session
+64	CGEMS_PGX_DBReplace	
+64	CGEMS_PGX_DBReplace	
+64	CGEMS_PGX_DBReplace	
+64	CGEMS_PGX_DBReplace	
+65	CGEXXChangeState	time	00:40:03
+65	CGEXXChangeState	source	-1
+65	CGEXXChangeState	target	-1
+65	CGEXXChangeState	owner	-2
+65	CGEXXChangeState	newStateReady
