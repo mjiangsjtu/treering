@@ -217,6 +217,8 @@ def WriteHistory(eventList):
             worksheet.write(row, 5, ' '.join(i['m_DB']))
             tables = []
             for j in range(i['tables']):
+                if i['content'][j] == '':
+                    continue
                 tables.append([i['m_DB'][j], pd.read_table(StringIO(i['content'][j]))])
             for pos, j in enumerate(GetVariables(tables)):
                 worksheet.write(row, 6 + pos, j)
@@ -257,6 +259,7 @@ def WriteDataTables(eventList, eventCutoff):
         elif i['event'] == 'CGEMS_PGX_DBModify':
             for t in range(i['tables']): #multple tables may be changed in one event
                 #separate table header (modTable[0]) from table rows (modTable[1:])
+                if i['content'][t] == '': continue
                 modTable = [k.split('\t') for k in i['content'][t].rstrip().split('\n')]
                 for j in range(len(modTable[0])): #j: index of variable names
                 #m_DB: tables changed; m_recordNrs: rows/subjects affected
